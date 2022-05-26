@@ -32,13 +32,11 @@
 ### 6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes
 en el mismo circuito.
 ![image](https://user-images.githubusercontent.com/105674953/170429697-f4c64a89-f532-4558-9e40-85a2a230f9b5.png)
-### 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
-rojo, oro.
+### 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 ![image](https://user-images.githubusercontent.com/105674953/170429742-9748a4e9-4637-4c43-b64b-d3f7fc31113d.png)
 ### 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 ![image](https://user-images.githubusercontent.com/105674953/170429767-b42cc6ae-6385-49c1-9817-54a3e80c30a0.png)
-### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente
-de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 ![image](https://user-images.githubusercontent.com/105674953/170429824-4790b78d-0204-4ae2-a0a5-e70b64410d0b.png)
 ### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 #### Si porque en la fórmula de ohm se indica que la corriente y el voltaje siempre son constante porque cuando una incrementa la otra igualmente y viceversa.
