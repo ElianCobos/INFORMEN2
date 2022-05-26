@@ -43,8 +43,7 @@ en el mismo circuito.
 ### 16. Determine la corriente en cada caso:
 ![image](https://user-images.githubusercontent.com/105674953/170429971-2e4d3918-a81b-4423-b2b9-d741ca6628f4.png)
 ![image](https://user-images.githubusercontent.com/105674953/170429991-a81da4a8-1941-45fe-9c52-cc57216fc066.png)
-### 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes
-máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+### 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 ![image](https://user-images.githubusercontent.com/105674953/170430064-19dc7d11-cea8-492a-8e79-dd66a57c718e.png)
 ### 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
 ![image](https://user-images.githubusercontent.com/105674953/170430094-b465a708-c736-41c6-b86a-fd583a22b67e.png)
@@ -59,8 +58,7 @@ máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del r
 ![image](https://user-images.githubusercontent.com/105674953/170430309-80e8dde9-15e6-479e-8cb2-8af336e980ba.png)
 ### 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 ![image](https://user-images.githubusercontent.com/105674953/170430333-6d2469e2-661e-4b9e-9d44-020a4d528037.png)
-### *34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
-excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 .
+### *34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 .
 ### 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 ![image](https://user-images.githubusercontent.com/105674953/170430360-ca3bf730-9059-4762-83b3-029250c77166.png)
 ## CAP 4
