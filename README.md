@@ -26,39 +26,55 @@
 ![image](https://user-images.githubusercontent.com/105674953/170409684-709c7619-022f-4b1e-9273-76651ff31d93.png)
 ## 3.	Explicación y resolución de ejercicios o problemas
 ### 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
+![image](https://user-images.githubusercontent.com/105674953/170429635-9d3618e8-2c04-4117-b2f3-2e474ae95883.png)
 ### 4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+![image](https://user-images.githubusercontent.com/105674953/170429663-3b83885a-08b6-4926-bf6c-9935b9924c04.png)
 ### 6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes
 en el mismo circuito.
+![image](https://user-images.githubusercontent.com/105674953/170429697-f4c64a89-f532-4558-9e40-85a2a230f9b5.png)
 ### 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
 rojo, oro.
+![image](https://user-images.githubusercontent.com/105674953/170429742-9748a4e9-4637-4c43-b64b-d3f7fc31113d.png)
 ### 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+![image](https://user-images.githubusercontent.com/105674953/170429767-b42cc6ae-6385-49c1-9817-54a3e80c30a0.png)
 ### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente
 de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+![image](https://user-images.githubusercontent.com/105674953/170429824-4790b78d-0204-4ae2-a0a5-e70b64410d0b.png)
 ### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+#### Si porque en la fórmula de ohm se indica que la corriente y el voltaje siempre son constante porque cuando una incrementa la otra igualmente y viceversa.
 ### 16. Determine la corriente en cada caso:
+![image](https://user-images.githubusercontent.com/105674953/170429971-2e4d3918-a81b-4423-b2b9-d741ca6628f4.png)
+![image](https://user-images.githubusercontent.com/105674953/170429991-a81da4a8-1941-45fe-9c52-cc57216fc066.png)
 ### 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes
 máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+![image](https://user-images.githubusercontent.com/105674953/170430064-19dc7d11-cea8-492a-8e79-dd66a57c718e.png)
 ### 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
 de colores es naranja, violeta, amarillo, oro, café.
-### *22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada
-a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8  o menos, el elemento
+![image](https://user-images.githubusercontent.com/105674953/170430094-b465a708-c736-41c6-b86a-fd583a22b67e.png)
+### *22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8  o menos, el elemento
 calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito
 si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje
 a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 ### 24. Calcule el voltaje para cada valor de I y R:
+![image](https://user-images.githubusercontent.com/105674953/170430221-cd20d4bc-b5cf-4f60-b9f1-0babd8348dfb.png)
 ### 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para
 obtener las cantidades de corriente indicadas.
+![image](https://user-images.githubusercontent.com/105674953/170430249-cf386176-cfbb-4f06-ae1d-f11da89c083e.png)
 ### 28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+![image](https://user-images.githubusercontent.com/105674953/170430283-caffcada-b8b0-4860-8920-43e6c0a4cc49.png)
 ### 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+![image](https://user-images.githubusercontent.com/105674953/170430309-80e8dde9-15e6-479e-8cb2-8af336e980ba.png)
 ### 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un
 amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito
 necesarias.
+![image](https://user-images.githubusercontent.com/105674953/170430333-6d2469e2-661e-4b9e-9d44-020a4d528037.png)
 ### *34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
 excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato
 sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 .
 ### 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
 ohmmetro mostradas.
-## CAP 5
+![image](https://user-images.githubusercontent.com/105674953/170430360-ca3bf730-9059-4762-83b3-029250c77166.png)
+## CAP 4
 ### 2. Demuestre que hay 3.6 x 10^6 joules en un kilowatt-hora.
 ### 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 ### 6. Convierta las siguientes cantidades en kilowatts:
