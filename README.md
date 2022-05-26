@@ -1,14 +1,9 @@
 # InformeN2
 ## 1. Objetivos
-#### 1.- Comprender sistema el estándar SI.
-#### 2.- Calcular cantidades con los métodos de notación científica y notación ingeniera.
-#### 4.- Examinar las principales características de los diferentes componentes electrónicos.
-#### 5.- Exponer el concepto de carga eléctrica.
-#### 6.-Enumerar tipos de diagramas eléctricos y electrónicos.
-#### 7.-Efectuar las diferentes mediciones de circuitos básicas.
-#### 8.-Describir la estructura básica de los átomos y sus características.
-#### 9.-Analizar el comportamiento de los diferentes componentes de un circuito eléctrico.
-#### 10.- Detallar el funcionamiento de los equipos de medición.
+#### 1.- Analizar la ley de ohm.
+#### 2.- Calcular las diferentes formas en las que se me presenta una corriente en un circuito.
+#### 4.- Calcular el voltaje de los ejercicios dados.
+#### 5.- Calcular las resistencias de los diferentes ejercicios planteados.
 ## 2. Marco Teorico
 #### 3.1. La relacion de corriente, voltaje y resistencia
 ![image](https://user-images.githubusercontent.com/105674953/170407078-a0ea53c1-5311-437e-aed8-7ac648bda847.png)
@@ -89,18 +84,22 @@ en el mismo circuito.
 ### 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
 ![image](https://user-images.githubusercontent.com/105674953/170444407-9507dd4a-4117-4599-a8e4-7445e4993888.png)
 ### 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+![image](https://user-images.githubusercontent.com/105674953/170533485-5ddf61c8-460d-47f1-9b94-fc797c745f2b.png)
 
 ### 32. Una batería puede proporcionar un promedio de 1.5 Ade corriente durante 24 h. ¿Cuál es su capacidad en amperes hora?
+![image](https://user-images.githubusercontent.com/105674953/170533518-f115ec24-9f35-47b9-8bd6-102dae8fb221.png)
 
 ### 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+![image](https://user-images.githubusercontent.com/105674953/170533725-a601d68a-5d81-4fed-b047-9d9a5351d2c6.png)
 
 ### 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+![image](https://user-images.githubusercontent.com/105674953/170533536-0c653934-b25d-4c85-a611-3bef94b2b70e.png)
 
 ## 4. Video
 https://youtu.be/F2xRa_L-xvA
 ## 5. Conclusiones
-#### -	El estudio de los circuitos eléctricos es fundamental para la carrera de electrónica y automatización ya que esto tiene un gran peso en todas las aplicaciones de la materia.
-#### -	Conocer los principios de calculo de mediciones de circuitos es muy importante al momento de hacer un circuito ya que este procedimiento hace que no halla fallos al momento de hacer el ya dicho.
+#### -	El estudio de las leyes de ohm es algo fundamental en la formacion profecional relacionado al ambito de la electronica, puesto a que esta ley nos sirve para calcular muchas de las incognitas o magnitudes de nuestro circuito
+#### -	Conocer los circuitos y ver cuales son los posibles fallos de este pueden ahorrar mucho tiempo y recursos es por eso que se necesita saber bien la resolucion de ejercicios de circuitos
 ## 6. Biliografia
 #### Floyd, T. L. (n.d.). FLOYD FLOYD OCTAVA EDICIÓN OCTAVA. Retrieved May 18, 2022, from www.pearsoneducacion.net/floyd
 
